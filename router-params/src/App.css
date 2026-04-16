@@ -1,0 +1,33 @@
+/* base img styling + box */
+img {
+  width: 175px;
+  float: left;
+  margin-left: 40px;
+
+  border: 1px solid #ddd;       
+  border-radius: 6px;             
+  background-color: #fff;          
+
+}
+
+img.hb,
+img.hu {
+  height: 80px;
+  padding: 10px;
+}
+
+img.pr {
+  height: 80px;
+}
+
+div h3 {
+  width: 350px;
+  margin: 165px auto 0;
+  text-transform: capitalize;
+}
+
+div h3 span {
+  color: rgb(28, 59, 85);
+  font-weight: bold;
+  margin-left: 10px;
+}
